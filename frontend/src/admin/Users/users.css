@@ -1,0 +1,17 @@
+.users {
+  width: 600px;
+  overflow-x: auto;
+  white-space: nowrap;
+  margin: 20px auto;
+  min-height: 80vh;
+  border: solid gray 1px;
+  margin-left: 50px;
+}
+
+.users table{
+  margin-left: 50px;
+}
+
+.users h1{
+  text-align: center;
+}
