@@ -12,11 +12,7 @@ LearnSphere provides a comprehensive learning environment through several key fe
 
 Content Aggregation and Delivery:-
 
-Feature Type	| Implementation	| Integration Method |
-Video Lectures |	Curated educational content	| Backend API delivery
-YouTube Playlists |	External video content |	YouTube Data API
-Real-time News	| Technology and AI articles	| NewsAPI.org integration
-Study Materials	| Interactive flashcards	| External app on port 3000
+https://deepwiki.com/Archana-SS/LearnSphere---Elearning-Platform#content-aggregation-and-delivery
 
 AI-Powered Learning Tools:-
 The platform integrates specialized AI tools for enhanced learning:
