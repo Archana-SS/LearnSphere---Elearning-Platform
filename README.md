@@ -8,11 +8,9 @@ LearnSphere implements a modular architecture that combines multiple frontend ap
 
 Core Features and Capabilities
 
-LearnSphere provides a comprehensive learning environment through several key feature categories:
+LearnSphere provides a comprehensive learning environment through several key feature categories:-
 
-Content Aggregation and Delivery:-
-
-https://deepwiki.com/Archana-SS/LearnSphere---Elearning-Platform#content-aggregation-and-delivery
+<img width="1140" height="397" alt="image" src="https://github.com/user-attachments/assets/9802373d-c8f8-4494-98d6-48e9e298664c" />
 
 AI-Powered Learning Tools:-
 The platform integrates specialized AI tools for enhanced learning:
@@ -25,3 +23,28 @@ LearnSphere implements a monetization layer through:
 Razorpay Integration: Secure payment processing for course purchases
 Subscription Management: User access control based on payment status
 Role-based Pricing: Different access levels for various user types
+
+
+<img width="447" height="580" alt="image" src="https://github.com/user-attachments/assets/c06bb474-992b-4bb0-a740-8596c402e017" />
+
+
+Technical Stack and Integration Architecture:
+
+Frontend Technology Stack:-
+LearnSphere utilizes modern web technologies for optimal performance and developer experience:
+React Framework: Component-based UI development
+Vite Build System: Fast development server and optimized builds
+React Router: Client-side routing with BrowserRouter
+Context API: State management for user authentication and course data
+
+External Service Integration Pattern:-
+
+<img width="1317" height="792" alt="image" src="https://github.com/user-attachments/assets/50d46523-5963-46e6-b48b-91d83b0df2cb" />
+
+<img width="862" height="603" alt="image" src="https://github.com/user-attachments/assets/bf0b2869-8333-46e9-81be-c360286437eb" />
+
+<img width="467" height="202" alt="image" src="https://github.com/user-attachments/assets/ebd970a2-aa82-4ac1-aa0f-20d27c8b711a" />
+
+
+
+
